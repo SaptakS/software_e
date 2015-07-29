@@ -1,0 +1,4 @@
+for has a frequency of 2
+if has a frequency of 2
+int has a frequency of 4
+return has a frequency of 1
