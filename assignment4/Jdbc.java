@@ -1,3 +1,8 @@
+/*Problem statement:
+	There are 2 tables - 'details' containing the details of a student and 'marks' containing the marks and roll no.
+	We need to take the name as input and find the corresponding marks from the other table.
+	Read the database details from a cnfig file.
+*/
 import java.sql.*;
 import java.io.*;
 import java.util.Properties;
